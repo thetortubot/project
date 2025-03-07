@@ -1,8 +1,8 @@
 export default {
-	title: `Odyssey Astro Theme | A Marketing Website Theme for Startups and Businesses`,
-	description: `A simple, clean, and modern theme for a startup or businesses' marketing website.`,
-	url: `https://odyssey-theme.sapling.supply`, // No trailing slash!
-	name: `Odyssey`, // The short name of the business or brand name. Used for things like the copyright in the footer.
-	enableThemeSwitcher: true,
-	showPlug: true, // Disable this if you want to remove the plug from the footer. (╯°□°)╯︵ ┻━┻
+title: `Tortubot | Un dron acuático innovador para limpiar y monitorear los océanos`,
+	description: `Tortubot es un robot acuático accesible diseñado para limpiar basura superficial marina y medir la salinidad y el pH del agua. Una solución innovadora para generar impacto ambiental en Perú y beyond.`,
+	url: `https://tortubot.github.io`, // Cambia esto cuando tengas tu URL definitiva
+	name: `Tortubot`, // Nombre corto del proyecto
+	enableThemeSwitcher: false, // Desactivado porque no es necesario para este proyecto
+	showPlug: false, // Desactivado para eliminar el crédito en el footer
 };
